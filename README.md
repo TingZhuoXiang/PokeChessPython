@@ -1,2 +1,2 @@
 # PokeChessPython
-A chess variant with pokemon typing
+A chess variant with pokemon types
